@@ -4,7 +4,7 @@
   "displayName": "Easy",
   "theme": "ui",
   "version": "0.1.0",
-  "description": "A great dark theme to start your own themes.",
+  "description": "Soft colours and easy spacing to make reading easier and faster.",
   "license": "MIT",
   "engines": {
     "mailspring": "*"
